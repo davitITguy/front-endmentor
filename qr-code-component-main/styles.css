@@ -1,0 +1,29 @@
+body{
+    background-color: #d8e0ee;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+.card{
+    background-color: #fff;
+    padding: 1%;
+    border-radius: 5%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+img{
+    border-radius: 5%;
+    margin-bottom: 2%;
+}
+.title{
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+}
+.subtitle{
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+}
